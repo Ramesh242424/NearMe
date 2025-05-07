@@ -209,7 +209,8 @@ map.html
 ```
 
 ## OUTPUT
-![map1](https://github.com/user-attachments/assets/b6b6968b-1c56-4cce-a8b5-ce1088847998)
+![image](https://github.com/user-attachments/assets/91c2f062-ea1a-4633-a697-ce87f8190247)
+
 
 ![map2](https://github.com/user-attachments/assets/850bf561-9a7f-4bb1-8325-131e5527c99e)
 
